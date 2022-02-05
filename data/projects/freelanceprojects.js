@@ -9,7 +9,7 @@ export default [
 	},
 	{
 		projectName: "The Purchase House",
-		image: "images/tph.png",
+		image: "images/project-tph.png",
 		summary:
 			"The Purchase House(TPH) is a B2B industrial e-marketplace, bridging the gap between buyers and sellers of surplus assets.",
 		preview: "https://www.thepurchasehouse.com/",
