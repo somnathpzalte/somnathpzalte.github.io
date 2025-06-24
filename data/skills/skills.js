@@ -1,33 +1,33 @@
 export default [
 	{
-		skillName: "PHP",
+		skillName: "NodeJs",
 		color: "1",
-	    percentage: "85"
+	    percentage: "90"
     },
     {
-		skillName: "Nodejs",
+		skillName: "ReactJs",
 		color: "6",
 	    percentage: "75"
 	},
     {
-		skillName: "Vuejs",
+		skillName: "JavaScript",
 		color: "2",
-	    percentage: "75"
+	    percentage: "85"
 	},
 	{
-		skillName: "Angular",
+		skillName: "TypeScript",
 		color: "7",
-	    percentage: "60"
+	    percentage: "65"
 	},
     {
-		skillName: "AWS(EC2, S3)",
+		skillName: "AWS(EC2, S3, Lambda, Cloudwatch, API G.)",
 		color: "3",
 	    percentage: "70"
 	},
     {
 		skillName: "HTML, Bootstrap, SCSS",
 		color: "4",
-	    percentage: "60"
+	    percentage: "70"
 	},
 	{
 		skillName: "MYSQL",
@@ -35,19 +35,29 @@ export default [
 	    percentage: "85"
 	},
 	{
-		skillName: "Android (Java)",
+		skillName: "PostgreSQL",
 		color: "1",
-	    percentage: "60"
+	    percentage: "80"
 	},
 	{
-		skillName: "Unit Testing (PHPUnit, Jest)",
+		skillName: "MongoDB",
+		color: "5",
+	    percentage: "75"
+	},
+	{
+		skillName: "Unit Testing (Jest)",
 		color: "2",
-	    percentage: "60"
+	    percentage: "80"
+	},
+	{
+		skillName: "Jira, Confluence",
+		color: "7",
+	    percentage: "80"
 	},
     {
-		skillName: "Bitbucket, Jira, Jenkins",
-		color: "7",
-	    percentage: "70"
+		skillName: "CI/CD, Jenkins",
+		color: "3",
+	    percentage: "75"
 	},
 	{
 		skillName: "Scrum, Kanban",

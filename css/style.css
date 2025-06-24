@@ -2200,3 +2200,7 @@ span {
 .finalText {
 	margin-bottom: 0px;
 }
+
+.ul-bullets {
+	list-style-type: square;
+}

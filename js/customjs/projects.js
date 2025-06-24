@@ -62,4 +62,4 @@ function populateHTML(items, id) {
 
 populateHTML(webProjects, 'websites');
 populateHTML(androidProjects, 'android-projects');
-populateHTML(freelanceProjects, 'freelance-projects');
+//populateHTML(freelanceProjects, 'freelance-projects');
