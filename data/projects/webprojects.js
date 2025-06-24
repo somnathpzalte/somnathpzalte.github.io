@@ -9,7 +9,7 @@ export default [
 	},
 	{
 		projectName: "Climanomics - S&P Global",
-		image: "images/project-climanomics.png",
+		image: "images/project-climanomics.PNG",
 		summary:
 			"Climanomics is a web application that provides climate risk analytics and insights for financial markets. It helps users understand the impact of climate change on investments and portfolios.",
 		preview: "https://www.spglobal.com/esg/solutions/climanomics",
