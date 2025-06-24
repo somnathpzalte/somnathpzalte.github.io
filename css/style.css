@@ -2204,3 +2204,18 @@ span {
 .ul-bullets {
 	list-style-type: square;
 }
+.ul-cv {
+	padding: 0px;
+	text-align: center;
+}
+/* .blink_me {
+  animation: blinker 1s linear infinite;
+  text-align: center;
+  padding: 0px;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+} */
