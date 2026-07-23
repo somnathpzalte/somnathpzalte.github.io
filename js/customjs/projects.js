@@ -15,6 +15,8 @@ function populateHTML(items, id) {
         
         var img = document.createElement("img");
         img.src = items[i].image;
+        img.alt = items[i].projectName + " project screenshot";
+        img.loading = "lazy";
         img.className = 'img-fluid';
         
         var divResumeContentLeft = document.createElement("div");

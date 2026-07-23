@@ -3,7 +3,7 @@ export default [
 		text: "GitHub",
 		color: "black",
 	    link: "https://github.com/somnathpzalte",
-		icon: "social fa fa-skype"
+		icon: "social fa fa-github"
     },
 	{
 		text: "Linkedin",
