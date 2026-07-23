@@ -68,5 +68,25 @@ export default [
 		skillName: "ELK",
 		color: "2",
 	    percentage: "30"
+	},
+	{
+		skillName: "Python",
+		color: "6",
+	    percentage: "50"
+	},
+	{
+		skillName: "Agentic AI",
+		color: "5",
+	    percentage: "50"
+	},
+	{
+		skillName: "Gen AI",
+		color: "1",
+	    percentage: "30"
+	},
+	{
+		skillName: "Azure",
+		color: "1",
+	    percentage: "30"
 	}
 ];
